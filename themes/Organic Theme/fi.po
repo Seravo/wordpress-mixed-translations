@@ -1,0 +1,1214 @@
+# Copyright 2013 Petteri Rouhiainen
+# Copyright 2013 Otto Kekäläinen, Seravo Oy
+# License: MIT
+msgid ""
+msgstr ""
+"Project-Id-Version: Organic Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-22 21:06+0100\n"
+"PO-Revision-Date: 2013-06-08 14:25+0200\n"
+"Last-Translator: Otto Kekäläinen <otto@seravo.fi>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Page Not Found"
+msgstr "Sivua ei löydy"
+
+#: ../404.php:22
+msgid "Oops! looks like you clicked on a broken link."
+msgstr ""
+
+#: ../404.php:22
+msgid "Go home?</a>"
+msgstr "Palaa kotisivulle?</a"
+
+#: ../archive.php:5
+#, php-format
+msgid "All posts in: \"%s\""
+msgstr ""
+
+#: ../archive.php:9
+#, php-format
+msgid "All posts tagged: \"%s\""
+msgstr ""
+
+#: ../archive.php:13
+#, php-format
+msgid "All posts by: \"%s\""
+msgstr ""
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:21
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: ../category.php:36
+#: ../template-blog.php:44
+msgid "Posted "
+msgstr ""
+
+#: ../category.php:38
+#: ../template-blog.php:46
+msgid " | Tags: "
+msgstr ""
+
+#: ../category.php:44
+#: ../template-blog.php:52
+msgid "0"
+msgstr ""
+
+#: ../category.php:45
+#: ../template-blog.php:53
+msgid "1"
+msgstr ""
+
+#: ../category.php:46
+#: ../template-blog.php:54
+msgid "%"
+msgstr ""
+
+#: ../category.php:48
+#: ../template-blog.php:56
+msgid "<span class=\"comments-off\">Off</span>"
+msgstr ""
+
+#: ../category.php:77
+#: ../template-blog.php:85
+msgid "No blog posts have been added yet"
+msgstr ""
+
+#: ../comments.php:12
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:46
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:48
+#: ../comments.php:50
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Cancel Reply To Comment"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:60
+#: ../template-contact.php:227
+msgid "Name"
+msgstr "Nimi"
+
+#: ../comments.php:60
+#: ../comments.php:62
+#: ../template-contact.php:228
+#: ../template-contact.php:235
+#: ../template-contact.php:242
+msgid "required"
+msgstr "Tarvittava tieto"
+
+#: ../comments.php:62
+#: ../template-contact.php:234
+msgid "Email"
+msgstr "Sähköposti"
+
+#: ../comments.php:64
+msgid "Website"
+msgstr ""
+
+#: ../footer.php:64
+msgid "&copy; Copyright 2012"
+msgstr ""
+
+#: ../functions.php:41
+#: ../functions.php:186
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:69
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:72
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:80
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#: ../functions.php:107
+msgid "Primary Widget Area"
+msgstr ""
+
+#: ../functions.php:109
+msgid "The primary widget area"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Footer widget area one"
+msgstr ""
+
+#: ../functions.php:129
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: ../functions.php:131
+msgid "Footer widget area two"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: ../functions.php:142
+msgid "Footer widget area three"
+msgstr ""
+
+#: ../functions.php:151
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: ../functions.php:153
+msgid "Footer widget area four"
+msgstr ""
+
+#: ../functions.php:162
+msgid "WooCommerce Widget Area"
+msgstr ""
+
+#: ../functions.php:164
+msgid "Widgets in this area will only be displayed on WooCommerce store pages"
+msgstr ""
+
+#: ../functions.php:187
+msgid "Secondary Navigation"
+msgstr ""
+
+#: ../functions.php:188
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:332
+msgid "Go to..."
+msgstr "Mene..."
+
+#: ../functions.php:649
+#: ../template-contact.php:139
+#: ../template-contact.php:165
+msgid "Details"
+msgstr "Tiedot"
+
+#: ../functions.php:653
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: ../functions.php:658
+msgid " class=\"button2\">"
+msgstr ""
+
+#: ../functions.php:682
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../functions.php:684
+#: ../functions.php:696
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:766
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:811
+msgid "This post is password protected. To view it please enter your password below"
+msgstr ""
+
+#: ../functions.php:812
+msgid "Password"
+msgstr "Salasana"
+
+#: ../header.php:88
+msgid "Checkout"
+msgstr "Kassalle"
+
+#: ../header.php:89
+msgid "My Account"
+msgstr "Oma tili"
+
+#: ../header.php:92
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: ../header.php:147
+msgid "Organic <span>shop</span>"
+msgstr ""
+
+#: ../template-contact.php:24
+msgid "Name is a required field"
+msgstr ""
+
+#: ../template-contact.php:33
+msgid "Email is a required field"
+msgstr ""
+
+#: ../template-contact.php:38
+msgid "Invalid email address"
+msgstr ""
+
+#: ../template-contact.php:47
+msgid "Message is a required field"
+msgstr ""
+
+#: ../template-contact.php:71
+msgid " Contact Form"
+msgstr "Yhteydenottolomake"
+
+#: ../template-contact.php:72
+msgid "IP Address"
+msgstr ""
+
+#: ../template-contact.php:217
+msgid "Email sent, thank you for contacting us"
+msgstr ""
+
+#: ../template-contact.php:222
+msgid "Send Us An Email"
+msgstr "lähetä meille postia"
+
+#: ../template-contact.php:241
+msgid "Message"
+msgstr "Viesti"
+
+#: ../template-contact.php:248
+msgid "Send Email"
+msgstr "Lähetä"
+
+#: ../template-homepage.php:108
+msgid "Featured Products"
+msgstr "Esittelyssä"
+
+#: ../template-homepage.php:134
+#: ../functions/testimonial_meta.php:8
+msgid "Testimonials"
+msgstr "Suosittelut"
+
+#: ../template-testimonials.php:73
+msgid "No testimonials have been added yet"
+msgstr "Ei suositteluja, vielä"
+
+#: ../admin/classes/class.options_machine.php:455
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:515
+msgid "Upload"
+msgstr "Lähetä"
+
+#: ../admin/front-end/options.php:43
+#: ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Tallenna muutokset"
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Nollaa valinnat"
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Valinnat"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galleria"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Aiemmin ladatut"
+
+#: ../functions/slides_meta.php:8
+#: ../functions/slides_meta.php:9
+msgid "Slideshow"
+msgstr "Diaesitys"
+
+#: ../functions/slides_meta.php:10
+#: ../functions/testimonial_meta.php:10
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: ../functions/slides_meta.php:11
+msgid "Add New Slideshow"
+msgstr "Lisää uusi diaesitys"
+
+#: ../functions/testimonial_meta.php:9
+msgid "Testimonial"
+msgstr "Esittely"
+
+#: ../functions/testimonial_meta.php:11
+msgid "Add New Testimonial"
+msgstr "Lisää uusi esittely"
+
+#: ../functions/widgets/widget-contact.php:12
+msgid "Display Contact Details"
+msgstr "Näytä yhteystiedot"
+
+#: ../functions/widgets/widget-contact.php:14
+msgid "Custom Contact Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:42
+#: ../functions/widgets/widget-contact.php:48
+msgid "Not available"
+msgstr "Ei saatavilla"
+
+#: ../functions/widgets/widget-contact.php:82
+#: ../functions/widgets/widget-flickr.php:75
+#: ../functions/widgets/widget-recent-posts.php:113
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: ../functions/widgets/widget-flickr.php:12
+msgid "Display Your Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:39
+msgid "View All"
+msgstr "Näytä kaikki"
+
+#: ../functions/widgets/widget-flickr.php:80
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:85
+msgid "How Many Photos:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:94
+msgid "flickr_type (user or group):"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:12
+msgid "Display Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:14
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:75
+msgid "Posted"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:75
+msgid "By"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:118
+msgid "Post Limit:"
+msgstr ""
+
+#: ../functions/widgets/widget-tags.php:12
+msgid "Display Tags"
+msgstr ""
+
+#: ../functions/widgets/widget-tags.php:14
+msgid "Custom Tags Widget"
+msgstr ""
+
+#: ../includes/loop.php:14
+#: ../includes/loop.php:115
+#: ../includes/loop.php:197
+msgid "Pages"
+msgstr ""
+
+#: ../includes/loop.php:108
+msgid "Search"
+msgstr ""
+
+#: ../includes/loop.php:134
+#: ../includes/loop.php:160
+#: ../includes/loop.php:186
+#: ../includes/loop.php:201
+#: ../includes/loop.php:210
+#: ../includes/loop.php:219
+#: ../includes/loop.php:242
+msgid "No results were found."
+msgstr "Ei tulosta"
+
+#: ../includes/loop.php:141
+#: ../includes/loop.php:206
+#: ../includes/loop.php:260
+msgid "Blog"
+msgstr "Blogi"
+
+#: ../includes/pagination.php:31
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../includes/pagination.php:32
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:24
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:26
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:72
+#: ../woocommerce/loop-shop.php:36
+msgid "No products found which match your selection."
+msgstr "Ei tuotetta antamillasi hakuehdoilla."
+
+#: ../woocommerce/single-product-reviews.php:29
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:29
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "Arvostelut"
+
+#: ../woocommerce/single-product-reviews.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:54
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:58
+msgid "Add Review"
+msgstr "Lisää arvostelu"
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Lisää arvostelu"
+
+#: ../woocommerce/single-product-reviews.php:64
+msgid "Be the first to review"
+msgstr "Arvostele ensimmäisenä"
+
+#: ../woocommerce/single-product-reviews.php:66
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr "Ei arvosteluja vielä, haluaisitko <a href=\"#review_form\" class=\"inline show_review_form\">kertoa mielipiteesi</a>?"
+
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Submit Review"
+msgstr "Lähetä arvostelu"
+
+#: ../woocommerce/single-product-reviews.php:91
+msgid "Rating"
+msgstr "Luokitus"
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:93
+msgid "Perfect"
+msgstr "Täydellinen"
+
+#: ../woocommerce/single-product-reviews.php:94
+msgid "Good"
+msgstr "Hyvä"
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid "Average"
+msgstr "Kohtalainen"
+
+#: ../woocommerce/single-product-reviews.php:96
+msgid "Not that bad"
+msgstr "Ei kovin hyvä"
+
+#: ../woocommerce/single-product-reviews.php:97
+msgid "Very Poor"
+msgstr "Surkea"
+
+#: ../woocommerce/single-product-reviews.php:102
+msgid "Your Review"
+msgstr "Arvostelusi"
+
+#: ../woocommerce/cart/cart.php:16
+#: ../woocommerce/cart/cart.php:35
+msgid "Remove"
+msgstr "Poista"
+
+#: ../woocommerce/cart/cart.php:17
+#: ../woocommerce/cart/cart.php:42
+msgid "Product"
+msgstr "Tuote"
+
+#: ../woocommerce/cart/cart.php:18
+#: ../woocommerce/cart/cart.php:72
+msgid "Price"
+msgstr "Hinta"
+
+#: ../woocommerce/cart/cart.php:19
+#: ../woocommerce/cart/cart.php:81
+msgid "Quantity"
+msgstr "Määrä"
+
+#: ../woocommerce/cart/cart.php:20
+#: ../woocommerce/cart/cart.php:98
+msgid "Total"
+msgstr "Yhteensä"
+
+#: ../woocommerce/cart/cart.php:37
+msgid "Remove this item"
+msgstr "Poista tämä tuote"
+
+#: ../woocommerce/cart/cart.php:55
+msgid "Available on backorder"
+msgstr "Saatavilla jälkitoimituksina"
+
+#: ../woocommerce/cart/cart.php:123
+msgid "Apply Coupon"
+msgstr "Lisää kuponki"
+
+#: ../woocommerce/cart/cart.php:131
+msgid "Update Cart"
+msgstr "Päivitä ostoskori"
+
+#: ../woocommerce/cart/cart.php:132
+msgid "Proceed to Checkout &rarr;"
+msgstr "Siirry maksamaan &rarr;"
+
+#: ../woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr "Saatat olla kiinnostunut&hellip;"
+
+#: ../woocommerce/cart/empty.php:7
+msgid "Your cart is currently empty."
+msgstr "Ostoskorisi on tyhjä"
+
+#: ../woocommerce/cart/empty.php:11
+msgid "&larr; Return To Shop"
+msgstr "&larr; Palaa kauppaan"
+
+#: ../woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr "Ei tuotteita ostoskorissa."
+
+#: ../woocommerce/cart/mini-cart.php:63
+#: ../woocommerce/cart/totals.php:94
+msgid "Subtotal"
+msgstr "Välisumma"
+
+#: ../woocommerce/cart/mini-cart.php:68
+msgid "View Cart &rarr;"
+msgstr "Näytä ostoskori &rarr;"
+
+#: ../woocommerce/cart/mini-cart.php:69
+msgid "Checkout &rarr;"
+msgstr "Kassalle &rarr;"
+
+#: ../woocommerce/cart/shipping-calculator.php:18
+msgid "Calculate Shipping"
+msgstr "Laske postikulut"
+
+#: ../woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr "Valitse maa&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:64
+msgid "State"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "Postcode/Zip"
+msgstr "Postinumero"
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "Postcode"
+msgstr "Postinumero"
+
+#: ../woocommerce/cart/shipping-calculator.php:75
+msgid "Update Totals"
+msgstr "Päivitä hinta"
+
+#: ../woocommerce/cart/totals.php:23
+msgid "Cart Totals"
+msgstr "Ostokset yhteensä"
+
+#: ../woocommerce/cart/totals.php:30
+msgid "Cart Subtotal"
+msgstr "Ostokset"
+
+#: ../woocommerce/cart/totals.php:37
+msgid "Cart Discount"
+msgstr "Alennus ostoksista"
+
+#: ../woocommerce/cart/totals.php:37
+#: ../woocommerce/cart/totals.php:122
+msgid "[Remove]"
+msgstr "[Poista]"
+
+#: ../woocommerce/cart/totals.php:48
+msgid "Shipping"
+msgstr "Toimituskulut"
+
+#: ../woocommerce/cart/totals.php:112
+msgid "Tax"
+msgstr "Vero"
+
+#: ../woocommerce/cart/totals.php:122
+msgid "Order Discount"
+msgstr "Alennus tilauksesta"
+
+#: ../woocommerce/cart/totals.php:131
+msgid "Order Total"
+msgstr "Tilaus yhteensä"
+
+#: ../woocommerce/cart/totals.php:147
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Sisältää %s)"
+
+#: ../woocommerce/cart/totals.php:163
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:165
+#, php-format
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:177
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:185
+#, php-format
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:187
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:16
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr "&larr; Palaa ostoskoriin"
+
+#: ../woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr "Maksutapa &amp; Toimituskulut"
+
+#: ../woocommerce/checkout/form-billing.php:24
+msgid "Billing Address"
+msgstr "Laskutusosoite"
+
+#: ../woocommerce/checkout/form-billing.php:46
+msgid "Create an account?"
+msgstr "Tee tili?"
+
+#: ../woocommerce/checkout/form-billing.php:55
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr "Tee tili alla olevalla lomakkeella. Jos sinulla on jo tili kirjaudu sisään sivun yläreunasta."
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Sinun pitää kirjautua sisään maksaaksesi."
+
+#: ../woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Tilauksesi"
+
+#: ../woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr "Onko sinulla kuponki?"
+
+#: ../woocommerce/checkout/form-coupon.php:21
+msgid "Click here to enter your code"
+msgstr "Paina kirjoittaaksesi koodin"
+
+#: ../woocommerce/checkout/form-coupon.php:27
+msgid "Coupon code"
+msgstr "Kupongin koodi"
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr "Onko sinulla jo tili?"
+
+#: ../woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr "Kirjaudu"
+
+#: ../woocommerce/checkout/form-login.php:22
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "Jos olet asioinut kanssamme aiemmin, täytä tietosi alla oleviin kenttiin. Jos olet uusi asiakas jatka Maksutapa &amp; Toimituskulut osioon."
+
+#: ../woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr "Kpl."
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr "Yhteensä"
+
+#: ../woocommerce/checkout/form-pay.php:78
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr "Maksa tilaus"
+
+#: ../woocommerce/checkout/form-shipping.php:31
+msgid "Shipping Address"
+msgstr "Toimitusosoite"
+
+#: ../woocommerce/checkout/form-shipping.php:36
+msgid "Ship to billing address?"
+msgstr "Toimita laskutusosoitteeseen?"
+
+#: ../woocommerce/checkout/form-shipping.php:61
+msgid "Additional Information"
+msgstr "Lisätietoja"
+
+#: ../woocommerce/checkout/review-order.php:184
+msgid "Payment Method"
+msgstr "Maksutapa"
+
+#: ../woocommerce/checkout/review-order.php:221
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Täytä tietosi ensin nähdäksesi käytettävissä olevat maksutavat."
+
+#: ../woocommerce/checkout/review-order.php:223
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:232
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:232
+msgid "Update totals"
+msgstr "Päivitä tilaus"
+
+#: ../woocommerce/checkout/review-order.php:238
+msgid "Place order"
+msgstr "Tee tilaus"
+
+#: ../woocommerce/checkout/review-order.php:242
+msgid "I have read and accept the"
+msgstr "Olen lukenut ja hyväksyn"
+
+#: ../woocommerce/checkout/review-order.php:242
+msgid "terms &amp; conditions"
+msgstr "Tilaus &amp; toimitusehdot"
+
+#: ../woocommerce/checkout/thankyou.php:13
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:17
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Ole hyvä ja yritä tilata uudelleen tai palaa oma tili sivulle."
+
+#: ../woocommerce/checkout/thankyou.php:19
+msgid "Please attempt your purchase again."
+msgstr "Ole hyvä ja yritä tilata uudelleen."
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Pay"
+msgstr "Maksa"
+
+#: ../woocommerce/checkout/thankyou.php:32
+#: ../woocommerce/checkout/thankyou.php:79
+msgid "Thank you. Your order has been received."
+msgstr "Kiitos. Tilauksesi on vastaanotettu."
+
+#: ../woocommerce/checkout/thankyou.php:37
+#: ../woocommerce/checkout/thankyou.php:50
+msgid "Order"
+msgstr "Tilaus"
+
+#: ../woocommerce/checkout/thankyou.php:38
+#: ../woocommerce/checkout/thankyou.php:54
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: ../woocommerce/checkout/thankyou.php:42
+#: ../woocommerce/checkout/thankyou.php:63
+msgid "Payment method"
+msgstr "Maksutapa"
+
+#: ../woocommerce/loop/add-to-cart.php:22
+msgid "Select options"
+msgstr "Valinnat"
+
+#: ../woocommerce/loop/add-to-cart.php:26
+msgid "View options"
+msgstr "Näytä valinnat"
+
+#: ../woocommerce/loop/add-to-cart.php:34
+msgid "Add to cart"
+msgstr "Lisää koriin"
+
+#: ../woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "Näytetään yksittäinen tulos"
+
+#: ../woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr "Näytetään kaikki %d tulokset"
+
+#: ../woocommerce/loop/sale-flash.php:10
+msgid "Sale!"
+msgstr "Tarjous!"
+
+#: ../woocommerce/loop/sorting.php:10
+msgid "Default sorting"
+msgstr "Normaali"
+
+#: ../woocommerce/loop/sorting.php:11
+msgid "Sort alphabetically"
+msgstr "Aakkosjärjestys"
+
+#: ../woocommerce/loop/sorting.php:12
+msgid "Sort by most recent"
+msgstr "Uusimmat"
+
+#: ../woocommerce/loop/sorting.php:13
+msgid "Sort by price"
+msgstr "Hinta"
+
+#: ../woocommerce/myaccount/form-change-password.php:14
+msgid "New password"
+msgstr "Uusi salasana"
+
+#: ../woocommerce/myaccount/form-change-password.php:19
+msgid "Re-enter new password"
+msgstr "Toista uusi salasana"
+
+#: ../woocommerce/myaccount/form-change-password.php:23
+msgid "Save"
+msgstr "Tallenna"
+
+#: ../woocommerce/myaccount/form-edit-address.php:36
+msgid "Save Address"
+msgstr "Tallenna osoite"
+
+#: ../woocommerce/myaccount/form-login.php:16
+#: ../woocommerce/shop/form-login.php:14
+msgid "Username or email"
+msgstr "Käyttäjätunnus tai sähköposti"
+
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/shop/form-login.php:25
+msgid "Login"
+msgstr "Kirjaudu"
+
+#: ../woocommerce/myaccount/form-login.php:28
+#: ../woocommerce/shop/form-login.php:27
+msgid "Lost Password?"
+msgstr "Salasana hukassa?"
+
+#: ../woocommerce/myaccount/form-login.php:37
+#: ../woocommerce/myaccount/form-login.php:82
+msgid "Register"
+msgstr "Rekisteröidy"
+
+#: ../woocommerce/myaccount/form-login.php:45
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+#: ../woocommerce/myaccount/form-login.php:68
+msgid "Re-enter password"
+msgstr "Toista salasana"
+
+#: ../woocommerce/myaccount/my-account.php:11
+#, php-format
+msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">change your password</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:29
+msgid "Recent Orders"
+msgstr "Tilaushistoria"
+
+#: ../woocommerce/myaccount/my-account.php:35
+msgid "My Address"
+msgstr "Osoitteeni"
+
+#: ../woocommerce/myaccount/my-account.php:38
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Seuraavia osoitteita käytetään oletuksena kassalla."
+
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/myaccount/my-address.php:60
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: ../woocommerce/myaccount/my-address.php:43
+msgid "You have not set up a billing address yet."
+msgstr "Et ole vielä antanut laskutusosoitetta."
+
+#: ../woocommerce/myaccount/my-address.php:78
+msgid "You have not set up a shipping address yet."
+msgstr "Et ole vielä antanut toimitusosoitetta."
+
+#: ../woocommerce/myaccount/my-orders.php:28
+#: ../woocommerce/myaccount/my-orders.php:46
+msgid "Ship to"
+msgstr "Toimita"
+
+#: ../woocommerce/myaccount/my-orders.php:30
+#: ../woocommerce/myaccount/my-orders.php:48
+msgid "Status"
+msgstr "Tila"
+
+#: ../woocommerce/myaccount/my-orders.php:51
+msgid "Click to cancel this order"
+msgstr "Paina peruuttaaksesi tilauksen"
+
+#: ../woocommerce/myaccount/my-orders.php:51
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: ../woocommerce/myaccount/my-orders.php:59
+msgid "View"
+msgstr "Näytä"
+
+#: ../woocommerce/myaccount/my-orders.php:71
+msgid "You have no recent orders."
+msgstr "Sinulla ei ole tilaushistoriaa."
+
+#: ../woocommerce/order/form-tracking.php:11
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:14
+msgid "Order ID"
+msgstr "Tilaus Nro."
+
+#: ../woocommerce/order/form-tracking.php:15
+msgid "Found in your order confirmation email."
+msgstr "Löytyy vahvistuspostista."
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr "Sähköposti jota käytit kassalla."
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Track\""
+msgstr "Seuranta\""
+
+#: ../woocommerce/order/order-details.php:18
+msgid "Order Details"
+msgstr "Tilauksen tiedot"
+
+#: ../woocommerce/order/order-details.php:61
+#, php-format
+msgid "Download file %s &rarr;"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:85
+msgid "Order Again"
+msgstr "Tilaa uudestaan"
+
+#: ../woocommerce/order/order-details.php:92
+msgid "Customer details"
+msgstr "Asikastiedot"
+
+#: ../woocommerce/order/order-details.php:97
+msgid "Email:"
+msgstr "Sähköposti:"
+
+#: ../woocommerce/order/order-details.php:98
+msgid "Telephone:"
+msgstr "Puhelin:"
+
+#: ../woocommerce/order/order-details.php:117
+#: ../woocommerce/order/order-details.php:133
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Tilauksen %s joka on tehty %s tila &ldquo;%s&rdquo;"
+
+#: ../woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr "sitten"
+
+#: ../woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr "ja valmistui"
+
+#: ../woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr "sitten"
+
+#: ../woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr "Tilauksen päivitykset"
+
+#: ../woocommerce/shop/breadcrumb.php:61
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:84
+#: ../woocommerce/shop/breadcrumb.php:168
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:132
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:172
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:177
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:183
+msgid "Page"
+msgstr "Sivu"
+
+#: ../woocommerce/single-product/meta.php:11
+msgid "SKU:"
+msgstr "Tuotenro:"
+
+#: ../woocommerce/single-product/meta.php:14
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: ../woocommerce/single-product/meta.php:16
+msgid "Tags:"
+msgstr "Tunnisteet:"
+
+#: ../woocommerce/single-product/product-attributes.php:22
+msgid "Weight"
+msgstr "Paino"
+
+#: ../woocommerce/single-product/product-attributes.php:31
+msgid "Dimensions"
+msgstr "Mitat"
+
+#: ../woocommerce/single-product/related.php:29
+msgid "Related Products"
+msgstr "Samankaltaiset tuotteet"
+
+#: ../woocommerce/single-product/review.php:22
+msgid "Your comment is awaiting approval"
+msgstr "Kommenttisi odottaa hyväksyntää"
+
+#: ../woocommerce/single-product/review.php:29
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:31
+msgid "M jS Y"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr "Saatat tykätä myös&hellip;"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:24
+msgid "Choose an option"
+msgstr "Valitse"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:69
+msgid "Clear selection"
+msgstr "Tyhjennä valinnat"
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Tuotetiedot"
+
