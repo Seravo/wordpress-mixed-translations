@@ -1,12 +1,9 @@
-# Copyright 2013 Petteri Rouhiainen
-# Copyright 2013 Otto Kekäläinen, Seravo Oy
-# License: MIT
 msgid ""
 msgstr ""
 "Project-Id-Version: Organic Shop\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-22 21:06+0100\n"
-"PO-Revision-Date: 2013-06-08 14:25+0200\n"
+"PO-Revision-Date: 2013-06-21 17:45+0200\n"
 "Last-Translator: Otto Kekäläinen <otto@seravo.fi>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,9 +11,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
-"Language: en_US\n"
-"X-Generator: Poedit 1.5.5\n"
-"X-Poedit-SearchPath-0: ..\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: ../404.php:19
 msgid "Page Not Found"
@@ -1211,4 +1207,9 @@ msgstr "Tyhjennä valinnat"
 #: ../woocommerce/single-product/tabs/description.php:14
 msgid "Product Description"
 msgstr "Tuotetiedot"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d tuote"
+msgstr[1] "%d tuotetta"
 
