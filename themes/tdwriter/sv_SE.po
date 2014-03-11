@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tdWriter\n"
+"POT-Creation-Date: 2013-12-14 15:51-0800\n"
+"PO-Revision-Date: 2014-03-11 13:59+0200\n"
+"Last-Translator: Otto Kekäläinen <otto@seravo.fi>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Sidan hittas inte."
+
+#: ../404.php:19
+msgid "It looks like nothing was found at this location. Maybe try our search?"
+msgstr ""
+
+#: ../404.php:22
+#: ../header.php:95
+msgid "To search type and hit enter"
+msgstr "Skriv ditt sök och tryck enter"
+
+#: ../archive.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#: ../archive.php:24
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:42
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:45
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:26
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: ../comments.php:26
+#, php-format
+msgid "%1$s Comments"
+msgstr "%1$s kommentarer"
+
+#: ../comments.php:36
+msgid "Leave a Comment"
+msgstr "Kommentera"
+
+#: ../comments.php:60
+msgid "<i class=\"icon-chevron-left\"></i><span class=\"meta-nav\"> Older Comments</span>"
+msgstr ""
+
+#: ../comments.php:61
+msgid "<span class=\"meta-nav\">Newer Comments </span><i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:25
+#: ../content-audio.php:24
+#: ../content-gallery.php:25
+#: ../content-image.php:25
+#: ../content-link.php:26
+#: ../content-page.php:32
+#: ../content-single.php:18
+#: ../content-status.php:24
+#: ../content-video.php:24
+#: ../content.php:21
+#: ../image.php:98
+#: ../template-page-archive.php:106
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../content-aside.php:30
+#: ../content-audio.php:49
+#: ../content-gallery.php:36
+#: ../content-image.php:44
+#: ../content-link.php:30
+#: ../content-single.php:57
+#: ../content-status.php:29
+#: ../content-video.php:42
+#: ../content.php:42
+#: ../functions.php:246
+#: ../template-home-page.php:20
+msgid "Read More"
+msgstr "Läs mer"
+
+#: ../content-aside.php:33
+#: ../content-audio.php:52
+#: ../content-gallery.php:39
+#: ../content-image.php:47
+#: ../content-page.php:25
+#: ../content-single.php:60
+#: ../content-video.php:45
+#: ../content.php:45
+#: ../image.php:81
+msgid "Pages:"
+msgstr ""
+
+#: ../footer.php:17
+msgid "Copyright //"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:52
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:73
+msgid "Header #1"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Name (required)"
+msgstr "Name (krävs)"
+
+#: ../functions.php:201
+msgid "Name"
+msgstr "Namn"
+
+#: ../functions.php:209
+msgid "Email Address (required)"
+msgstr "E-post (krävs)"
+
+#: ../functions.php:211
+msgid "Email Address"
+msgstr "E-post"
+
+#: ../functions.php:218
+msgid "Website"
+msgstr "Webbsida"
+
+#: ../header.php:62
+msgid "View More"
+msgstr "Visa mer"
+
+#: ../image.php:24
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Tidigare"
+
+#: ../image.php:25
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nästa <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../image.php:90
+#, php-format
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:92
+#, php-format
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:94
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:96
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../no-results.php:17
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: ../no-results.php:23
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../no-results.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Search..."
+msgstr "Sök..."
+
+#: ../template-home-page.php:33
+msgid "Go to Blog"
+msgstr ""
+
+#: ../template-page-archive.php:28
+msgid "Latest Posts"
+msgstr "Senaste artiklar"
+
+#: ../template-page-archive.php:42
+msgid "Archives by Month"
+msgstr ""
+
+#: ../template-page-archive.php:50
+msgid "Archive By Year"
+msgstr ""
+
+#: ../template-page-archive.php:58
+msgid "Pages"
+msgstr ""
+
+#: ../template-page-archive.php:71
+msgid "Categories"
+msgstr "Kategori"
+
+#: ../template-page-archive.php:83
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../template-page-archive.php:90
+msgid "Contributors"
+msgstr ""
+
+#: ../inc/customizer.php:16
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/customizer.php:26
+msgid "Use Logo as a Website Title"
+msgstr ""
+
+#: ../inc/customizer.php:33
+msgid "Custom Logo Upload"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid "Social Settings"
+msgstr ""
+
+#: ../inc/customizer.php:50
+msgid "Twitter Link:"
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Facebook Link"
+msgstr ""
+
+#: ../inc/customizer.php:72
+msgid "Google+ Link"
+msgstr ""
+
+#: ../inc/customizer.php:83
+msgid "Skype Name"
+msgstr ""
+
+#: ../inc/customizer.php:94
+msgid "Flickr Link"
+msgstr ""
+
+#: ../inc/customizer.php:105
+msgid "LinkedIn Link"
+msgstr ""
+
+#: ../inc/customizer.php:116
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "RSS Link"
+msgstr ""
+
+#: ../inc/customizer.php:138
+msgid "Google Picasa Link"
+msgstr ""
+
+#: ../inc/customizer.php:149
+msgid "Vimeo Link"
+msgstr ""
+
+#: ../inc/customizer.php:160
+msgid "YouTube Link"
+msgstr ""
+
+#: ../inc/customizer.php:167
+msgid "Website Settings"
+msgstr ""
+
+#: ../inc/customizer.php:177
+msgid "Number of featured posts to show"
+msgstr ""
+
+#: ../inc/customizer.php:189
+msgid "Share Buttons"
+msgstr ""
+
+#: ../inc/customizer.php:192
+msgid "On"
+msgstr ""
+
+#: ../inc/customizer.php:193
+msgid "Off"
+msgstr ""
+
+#: ../inc/customizer.php:204
+msgid "Share Buttons Style"
+msgstr ""
+
+#: ../inc/customizer.php:207
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:208
+msgid "Custom"
+msgstr ""
+
+#: ../inc/customizer.php:214
+msgid "Newsletter Settings"
+msgstr ""
+
+#: ../inc/customizer.php:222
+msgid "Custom Image Upload"
+msgstr ""
+
+#: ../inc/customizer.php:233
+msgid "Newsletter Form(HTML Code)"
+msgstr ""
+
+#: ../inc/documentation.php:7
+msgid "tdWriter Documentation"
+msgstr ""
+
+#: ../inc/extras.php:83
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:110
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/extras.php:114
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/extras.php:118
+msgid "Google+"
+msgstr ""
+
+#: ../inc/extras.php:122
+msgid "Skype"
+msgstr ""
+
+#: ../inc/extras.php:126
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/extras.php:130
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/extras.php:134
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/extras.php:138
+msgid "RSS"
+msgstr ""
+
+#: ../inc/extras.php:142
+msgid "Picasa"
+msgstr ""
+
+#: ../inc/extras.php:146
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/extras.php:150
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/extras.php:538
+msgid "No"
+msgstr ""
+
+#: ../inc/extras.php:539
+msgid "Yes"
+msgstr ""
+
+#: ../inc/extras.php:562
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/extras.php:565
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/extras.php:568
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../inc/extras.php:571
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/extras.php:599
+msgid "Set Backgound Image"
+msgstr ""
+
+#: ../inc/extras.php:600
+msgid "Remove Backgound Image"
+msgstr ""
+
+#: ../inc/extras.php:660
+msgid "Title"
+msgstr ""
+
+#: ../inc/extras.php:715
+msgid "tdWriter Options"
+msgstr ""
+
+#: ../inc/extras.php:721
+msgid "Theme Customizer allows you to change certain Theme features and see the results real-time without opening or refreshing a new browser window."
+msgstr ""
+
+#: ../inc/extras.php:722
+msgid "Theme Customizer"
+msgstr ""
+
+#: ../inc/extras.php:727
+msgid "Theme Documentation can help you to setup tdWriter WordPress Theme."
+msgstr ""
+
+#: ../inc/extras.php:728
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../inc/extras.php:733
+msgid "If you have any questions that are beyond the scope of the help file, please feel free to Contact me. Theme Support is available to all customers who have purchased the theme. Unfortunately I can't help you customize your theme outside of it's intended functionality because theme customization has to do with preference, rather than actual theme issues. It requires customizing the theme beyond the scope of the theme's intended style or functionality."
+msgstr ""
+
+#: ../inc/extras.php:734
+msgid "Theme Support"
+msgstr ""
+
+#: ../inc/template-tags.php:47
+msgid "<i class=\"icon-chevron-left\"></i><span class=\"meta-nav\"> Older posts</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:51
+msgid "<span class=\"meta-nav\">Newer posts </span><i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#: ../inc/template-tags.php:76
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:76
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:90
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:96
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:120
+#, php-format
+msgid "<i class=\"icon-time\"></i> <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: ../inc/template-tags.php:232
+#: ../inc/template-tags.php:233
+#: ../inc/template-tags.php:250
+msgid ", "
+msgstr ""
+

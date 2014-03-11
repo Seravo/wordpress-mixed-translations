@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Organic Shop\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-22 21:06+0100\n"
-"PO-Revision-Date: 2013-06-21 17:45+0200\n"
+"PO-Revision-Date: 2013-06-21 18:34+0200\n"
 "Last-Translator: Otto Kekäläinen <otto@seravo.fi>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: ../comments.php:40
 msgid "Comment"
-msgstr ""
+msgstr "Kommentti"
 
 #: ../comments.php:46
 #, php-format
@@ -127,7 +127,7 @@ msgstr ""
 #: ../comments.php:48
 #: ../comments.php:50
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Kommentoi"
 
 #: ../comments.php:52
 msgid "Cancel Reply To Comment"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../comments.php:54
 msgid "Submit Comment"
-msgstr ""
+msgstr "Lähetä kommentti"
 
 #: ../comments.php:60
 #: ../template-contact.php:227
