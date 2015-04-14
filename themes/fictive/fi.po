@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fictive\n"
+"POT-Creation-Date: 2015-04-14 14:00+0200\n"
+"PO-Revision-Date: 2015-04-14 14:18+0200\n"
+"Last-Translator: Onni Hakala <onni@koodimonni.fi>\n"
+"Language-Team: Onni Hakala <onni@koodimonni.fi>\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿Hups! Tätä sivua ei löydy."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "﻿Näyttää ettei mitään löytynyt. Kokeile alla olevia linkkejä tai hakua?"
+
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "﻿Kirjoittaja: %s"
+
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "﻿Päivä: %s"
+
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "﻿Kuukausi: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "﻿Vuosi:%s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+msgid "Asides"
+msgstr "﻿Sivupalkit"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "﻿Galleriat"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Kuvat"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "﻿Videot"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "﻿Lainaukset"
+
+#: archive.php:54
+msgid "Links"
+msgstr "﻿Linkit"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "﻿Tilat"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "﻿Äänet"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Keskustelut"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkistot"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:49
+msgid "Comment navigation"
+msgstr "﻿Kommenttien navigointi"
+
+#: comments.php:36 comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat Kommentit"
+
+#: comments.php:37 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat Kommentit &rarr; "
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "﻿Mitään ei löytynyt"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"﻿Emme löytäneet hakuasi vastaavaa sisältöä. Yritä uudelleen eri hakutermeillä."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "﻿Näyttää siltä, ettemme löydä, mitä etsit. Ehkä haku auttaa?"
+
+#: content-page.php:24 content-single.php:35 content.php:48
+msgid "Pages:"
+msgstr "﻿Sivut:"
+
+#: content-page.php:30 content-single.php:27 content.php:35
+#: eventbrite/eventbrite-index.php:46 eventbrite/eventbrite-single.php:33
+#: inc/template-tags.php:110 inc/template-tags.php:147
+msgid "Edit"
+msgstr "﻿Muokkaa"
+
+#: content-single.php:17 content.php:18
+#, php-format
+msgid "All %s posts"
+msgstr "﻿Kaikki %s artikkelia"
+
+#: content.php:32
+msgid "Leave a comment"
+msgstr "Kommentoi"
+
+#: content.php:32
+msgid "1 Comment"
+msgstr "1 Kommentti"
+
+#: content.php:32
+msgid "% Comments"
+msgstr "% Kommenttia"
+
+#: content.php:45
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "﻿Lue lisää <span class=\"meta-nav\">&rarr;</span>"
+
+#: eventbrite/eventbrite-index.php:38 eventbrite/eventbrite-single.php:25
+msgid "Eventbrite event"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:15
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:17
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "%1$s teeman koodasi %2$s."
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "Päävalikko"
+
+#: functions.php:45
+msgid "Social Links"
+msgstr "﻿Somelinkit"
+
+#: functions.php:78
+msgid "Sidebar"
+msgstr "﻿Sivupalkki"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:159
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "päällä"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:168
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "päällä"
+
+#: header.php:57
+msgid "Menu"
+msgstr "Valikko"
+
+#: header.php:60
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: header.php:62
+msgid "Search"
+msgstr "﻿Etsi"
+
+#: header.php:66
+msgid "Skip to content"
+msgstr "﻿Siirry sisältöön"
+
+#: inc/customizer.php:19
+msgid "Theme"
+msgstr "﻿Teema"
+
+#: inc/customizer.php:29
+msgid "Gravatar Email"
+msgstr "﻿Gravatar Sähköposti"
+
+#: inc/customizer.php:41
+msgid "Sidebar Position"
+msgstr "﻿Sivupalkin sijainti"
+
+#: inc/customizer.php:45
+msgid "Fixed"
+msgstr "﻿Kiinteä"
+
+#: inc/customizer.php:46
+msgid "Scroll"
+msgstr "﻿Vieritä"
+
+#: inc/extras.php:67
+#, php-format
+msgid "Page %s"
+msgstr "﻿Sivu %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Artikkeleiden navigointi"
+
+#: inc/template-tags.php:27
+msgctxt "Older posts"
+msgid "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgctxt "Newer posts"
+msgid "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:74
+#, php-format
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\">Featured</a></span><span class=\"byline\"><span class=\"author vcard\"><a "
+"class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</a></"
+"span></span>"
+msgstr ""
+
+#: inc/template-tags.php:78 inc/template-tags.php:89
+#, php-format
+msgid "View all posts by %s"
+msgstr "﻿Näytä kaikki kirjoitukset kirjoittajalta: %s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sanoo:</span>"
+
+#: inc/template-tags.php:124
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa moderointia."
+
+#: inc/template-tags.php:144
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "﻿%1$s %2$s"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "﻿Hakutulokset haulle '%s':"
